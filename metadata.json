@@ -1,0 +1,5 @@
+{
+  "name": "BiblioAI - Tu Compañero de Lectura",
+  "description": "Una aplicación inteligente para lectores que permite rastrear libros, obtener análisis profundos con IA, chatear con el contenido de los libros y visualizar hábitos de lectura.",
+  "requestFramePermissions": []
+}
